@@ -1,0 +1,26 @@
+<!doctype html>
+<!--과제)AB.html-->
+<html lang="ko">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="https://dlrkdals1215.github.io" />
+    <!--이 페이지 누가 만들었는지 써둠.-->
+    <meta name="robots" content="noindex, nofollow" />
+    <!--구글 등 검색엔진에서 검색되지 않게함.-->
+    <title>About</title>
+    <link rel="stylesheet" href="PFstyle.css" />
+    <!--따로 만든 외부스타일시트 추가-->
+</head>
+
+<body>
+    <div id="middle">
+        <!--페이지를 가운데로 정렬-->
+       
+        <header>
+            <h2 id="title">이강민</h2>
+            <nav>
+                <ul>    <!--메뉴 버튼들.-->
+                
+</body>
+</html>
