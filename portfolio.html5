@@ -49,8 +49,9 @@
         <div id="c1" style="text-align:center">
             <article>
                 <h2 id="text">공부해온 과목<b></b></h2>
-                <p>C++</p><br />
-                <p>Python</p><br /><hr />
+               <img src="../semanticImage/capture1.PNG" alt="과목"/>
+               <img src="../semanticImage/capture2.PNG" alt="과목"/>
+               <img src="../semanticImage/capture3.PNG" alt="과목"/>
             </article>
         </div>
 
